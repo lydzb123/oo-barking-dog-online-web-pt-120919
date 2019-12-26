@@ -10,8 +10,7 @@ class Dog
 
 
   def bark=(dogs_bark)
-    @this_dogs_
-    this_dogs_bark = dogs_bark
+    @this_dogs_bark = dogs_bark
     puts "woof!"
   end
 
